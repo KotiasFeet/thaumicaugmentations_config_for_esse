@@ -1,0 +1,2 @@
+# thaumicaugmentations_config_for_esse
+thaumicaugmentations config for essential
